@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Tools\\Visual Studio 2022\\1. Freelance\\04.10.2024\\1. Theory of information encoding and compression\\2. Arithmectic compression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0048DC-600D-4523-A012-8D0EFBA7F648}|2. Arithmectic compression\\2. Arithmectic compression.vcxproj|D:\\Software Tools\\Visual Studio 2022\\1. Freelance\\04.10.2024\\1. Theory of information encoding and compression\\2. Arithmectic compression\\2. Arithmectic compression\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C0048DC-600D-4523-A012-8D0EFBA7F648}|2. Arithmectic compression\\2. Arithmectic compression.vcxproj|solutionrelative:2. Arithmectic compression\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Software Tools\\Visual Studio 2022\\1. Freelance\\04.10.2024\\1. Theory of information encoding and compression\\2. Arithmectic compression\\2. Arithmectic compression\\Source.cpp",
+              "RelativeDocumentMoniker": "2. Arithmectic compression\\Source.cpp",
+              "ToolTip": "D:\\Software Tools\\Visual Studio 2022\\1. Freelance\\04.10.2024\\1. Theory of information encoding and compression\\2. Arithmectic compression\\2. Arithmectic compression\\Source.cpp",
+              "RelativeToolTip": "2. Arithmectic compression\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-07T06:01:28.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
